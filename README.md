@@ -6,6 +6,6 @@
 
 ## 友情提醒
 为了获得更好的字体使用体验，强烈建议您使用最新版字体。
-- [「霞鹜新晰黑」最新版下载地址](https://github.com/lxgw/LxgwNeoXiHei/releases/latest)
-- [「霞鹜漫黑」　最新版下载地址](https://github.com/lxgw/LxgwMarkerGothic/releases/latest)
-- [「霞鹜文楷」　最新版下载地址](https://github.com/lxgw/LxgwWenKai/releases/latest)
+- [「霞鹜新晰黑」最新版下载地址](https://github.com/lxgw/LxgwNeoXiHei/releases/latest) ![](https://img.shields.io/github/release/lxgw/LxgwNeoXiHei?style=flat-square)
+- [「霞鹜漫黑」　最新版下载地址](https://github.com/lxgw/LxgwMarkerGothic/releases/latest) ![](https://img.shields.io/github/release/lxgw/LxgwMarkerGothic?style=flat-square)
+- [「霞鹜文楷」　最新版下载地址](https://github.com/lxgw/LxgwWenKai/releases/latest) ![](https://img.shields.io/github/release/lxgw/LxgwWenKai?style=flat-square)
